@@ -1,0 +1,4 @@
+## .gitignore file for dos2unix-scaffold
+
+## ignore folder fetched through gclient
+dos2unix
